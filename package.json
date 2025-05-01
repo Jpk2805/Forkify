@@ -1,0 +1,24 @@
+{
+  "name": "forkify",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jpk2805/Forkify.git"
+  },
+  "author": "Jaykumar Patel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jpk2805/Forkify/issues"
+  },
+  "homepage": "https://github.com/Jpk2805/Forkify#readme",
+  "description": "",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.14.4",
+    "parcel": "^2.14.4"
+  }
+}
